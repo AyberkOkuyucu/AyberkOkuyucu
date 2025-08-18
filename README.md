@@ -6,6 +6,7 @@
 - GitHub profilimi özgün projelerle zenginleştirmek  
 - React ve modern JavaScript framework’lerinde yetkinleşmek  
 - Responsive ve kullanıcı dostu arayüzler tasarlamak
+-SAPUI5 / Fiori kullanarak kurumsal seviyede uygulamalar geliştirmek
 
 ## 🔧 Kullandığım Teknolojiler
 ### 💻 Teknolojiler & Araçlar
@@ -21,10 +22,10 @@
 
 
 ## 📌 Üzerinde Çalıştığım Şeyler
-- React öğreniyorum  .
-- Javascripti ileri seviye öğrenmeye çalışıyorum.
--Pyhton öğreniyorum.
--jQuery Öğreniyorum.
+React ile proje geliştirme
+SAPUI5 / Fiori kullanarak kurumsal uygulamalar oluşturma
+İleri seviye JavaScript konularını pekiştirme
+Full-Stack Development için backend temellerini öğrenme
 
 ## 📫 Bana Ulaşın
 LinkedIn veya e-posta üzerinden iletişime geçmek isterseniz:  
